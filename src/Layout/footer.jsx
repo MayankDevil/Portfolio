@@ -12,7 +12,7 @@ export default function Footer()
             <div className="container">
                 <div className="row py-md-5 border-top">
 
-                    <div className="col-md-6 col-12 py-3"> Portfolio <span className="text-primary">&copy;</span> Developed | Designed by <a href="https://mastermayank.w3spaces.com" className="text-blue" id="developer"> Mayank </a> </div>
+                    <div className="col-md-6 col-12 py-3"> <span className="text-primary">&copy;</span> Developed | Designed by <a href="https://mastermayank.w3spaces.com" className="text-blue" id="developer"> Mayank </a> </div>
                 
                     <div className="col-md-6 col-12 py-3 text-md-end">
                         <a href="https://github.com/MayankDevil" className="btn btn-outline-dark  bi bi-github"></a>

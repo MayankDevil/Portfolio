@@ -14,7 +14,7 @@ export default function Aside()
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-0">
                     
                     {/* <!-- ( website title ) --> */}
-                    <a className="navbar-brand" href="" id="brand">Portfolio</a>
+                    <a className="navbar-brand" href="https://mayankdevil.github.io/MayankDevil" id="brand">Master Mayank</a>
 
                     {/* <!-- ( navbar toggle button ) --> */}
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -27,7 +27,6 @@ export default function Aside()
                         <div className="navbar-nav w-100 d-flex justify-content-end">
                             
                             <div className="nav-item"><a className="nav-link" href="#header">  About Me </a></div>
-                            
                             <div className="nav-item"> <a className="nav-link" href="#achievement"> Achievement </a> </div>
                             <div className="nav-item"> <a className="nav-link" href="#roadmap"> RoadMap </a> </div>
                             <div className="nav-item"> <a className="nav-link" href="#service"> Expertise </a> </div>

@@ -63,7 +63,7 @@ export default function Service()
 
                         {i.offer.map((o, index) => {
                             
-                            if (index == 5 && i.title != "Web Development")
+                            if ((index == 5 && i.title != "Web Development") || (index == 3 && i.title == "Database Management"))
                             {
                                 return (
                                     <div className="text-secondary py-2"> <span className="bi bi-x-circle"></span> {o} </div>
