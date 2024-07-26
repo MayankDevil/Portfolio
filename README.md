@@ -41,11 +41,11 @@ _Immerse yourself in the elegance of simplicity with our Light Theme's deliberat
 
 Copyright (c) by _Mayank_. All Rights Reserved.
 
-__This GUPT Project is the property of Mayank and is protected under copyright law. Unauthorized reproduction, distribution, or disclosure of this Project , or any part of its contents, is strictly prohibited.__
+__This Project is the property of Mayank and is protected under copyright law. Unauthorized reproduction, distribution, or disclosure of this Project , or any part of its contents, is strictly prohibited.__
 
 For permissions, please contact the repository owners through their GitHub profiles:
 
-[![Mayank](https://img.shields.io/badge/MayankDevil-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://mayankdevil.github.io/MayankDevil/)
+[![Mayank](https://img.shields.io/badge/MayankDevil-000000?style=for-the-badge&logo=github&logoColor=white)](https://mayankdevil.github.io/MayankDevil/)
 
 https://github.com/MayankDevil/
 
