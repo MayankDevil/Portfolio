@@ -19,7 +19,7 @@ export default function Roadmap()
         },
         {
             icon : "bi bi-clipboard-data road-icon",
-            description :`I am pursuing a <span className="bold">(Bachelor of Computer Applications) BCA degree</span> from Post Graduate Government College, Sector-11, Chandigarh.`
+            description :`I am Complete a <span class="bold">(Bachelor of Computer Applications) BCA degree</span> from Post Graduate Government College, Sector-11, Chandigarh.`
         }
     ].map((i) => {
         return (
