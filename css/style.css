@@ -1,5 +1,5 @@
 /*
--   Portfolio ""
+-   About 
 -   https://github.com/MayankDevil/
 -   Designed & Developed by Mayank
 -   CSS : ./css/style.css
@@ -33,6 +33,7 @@ a{
 }
 #brand
 {
+    color:var(--bs-secondary);
     padding: 0.5rem 1rem;
 }
 .nav-link

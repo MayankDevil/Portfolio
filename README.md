@@ -1,81 +1,54 @@
-# myData
 
-#### this is collection of data folders & images & JSON files
----
-###### URL : https://mayankdevil.github.io/myData/
+# Portfolio
 
-![NETWORK_ERROR](./design/denied.png)
+- Name : "Portfolio"
 
-<!-- 
+- Description : "Website about me that give as task to checkout my skill"
 
-# repository
+- Version : version-0
 
-- Name : "project_name"
+- Update : 26-07-2024
 
-- Description : "about_project"
+- Status : COMPLETED
 
-- Version : branch_name
+- Responsive : True
 
-- Update : dd-mm-yyyy
+- TechStack : { HTML5 | CSS3 | JavaScript | Bootstrap }
 
-- Status : ACTIVE REST COMPLETED
+- Thanks : { GitHub | VSCode | GIMP | Bootstrap | Bootstrap-Icon }
 
-- Responsive : True/False
+- Collabrate : { MayankDevil }
 
-- TechStack : { HTML | CSS | JavaScript | Bootstrap | PHP | Python | Java | C/C++ }
-
-- Thanks : { GitHub | VSCodium | GIMP | Bootstrap | Unplash | Favicon | Freepik | MayankDevil }
-
-- Collabrate : { Self | ... }
-
-- URL : https://username.github.io/repository/
-
-- Clone : https://github.com/username/repository.git
-
-- Download : https://github.com/username/repository/archive/refs/heads/main.zip
-
-#### Project Look & Feel
-
-![NETWORK_ERROR](./data/website.png)
+- URL : https://mayankdevil.github.io/Portfolio/
 
 #### Responsive
 
-_""_
+_Experience seamless interaction across all devices with our web application's fully responsive user interface, adapting effortlessly to every screen size and ensuring a captivating experience for every user._
 
   **SCREEN** { 1200PX | 992PX | 785PX | 556PX }
 
 #### Theme
 
-_""_
+_Immerse yourself in the elegance of simplicity with our Light Theme's deliberate color palette, featuring a harmonious blend of red, blue, and subtle accents of black or lighter tones, crafting a sleek and minimalist design._
 
-#### Key Feature that make website more valuble
+#### Features
 
- - [x] primary_feature
- - [ ] secondary_feature
+ - [x] Simple UI/UX
+ 
+ - [x] Responsive Design
 
-#### Requirement to use
+### Copyright Notice
 
--  primary_need
--  secondary_need
+Copyright (c) by _Mayank_. All Rights Reserved.
 
-### Warning
+__This GUPT Project is the property of Mayank and is protected under copyright law. Unauthorized reproduction, distribution, or disclosure of this Project , or any part of its contents, is strictly prohibited.__
 
-** normal copyright **
+For permissions, please contact the repository owners through their GitHub profiles:
 
-__" Please refrain from unauthorized coping or downloading of content, as such actions are subject to legal consequences and potential charges.We encourage respectful and responsible use of the resouces prvided for learning purpose."__
+[![Mayank](https://img.shields.io/badge/MayankDevil-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://mayankdevil.github.io/MayankDevil/)
 
-** education purpose not certificate or fee **
+https://github.com/MayankDevil/
 
-__" This website is meticulously crafted for educational purpose, aiming to facilitate learning and skill enchcement. It is crucial to underastand that while every effort has been mode to ensure accuracy and quality, we cannot guarantee the absence of errors or omissions. We do not provide certification services, nor do we impose any fees for access "__
+Any unauthorized use of the material within this repository may constitute a violation of copyright law.
 
-** copyright not copy download **
 
-__" We urge all users to respect the copyright and intellectual property rights associated with the content on this website. Unauthorized copying, downloading, or any form of content misuse is strictly prohibited. Such actions may lead to legal consequences and potential charges. "__
-
-** justify **
-
-__" We embrace responsible and ethical use of the resources we provide. Our goal is to empower learners in a conducive and lawful environment, fostering a sense of respect and integrity within our community. Your commitment to these principles is greatly appreciated. "__
-
-[![twitter](https://img.shields.io/badge/MayankDevil-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankDevil/)
-
--->
